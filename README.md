@@ -1,2 +1,4 @@
 # DSC180A-Methodology-3
-Brandon Van Horn
+
+Alisha Wang
+
