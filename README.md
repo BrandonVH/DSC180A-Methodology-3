@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Brandon Van Horn
-bvanhorn@ucsd.edu
+Brandon Van Horn and Alisha Wang
